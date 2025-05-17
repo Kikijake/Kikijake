@@ -2,11 +2,18 @@
 
 ###
 
-<img align="left" height="117" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nya21sNHpiYTk5MGRhcW1maTdzYzh4ZHVkbmc5bmFzdTJpb29uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEKcOWl8RMLde/giphy.gif"  />
-
-###
-
-<p align="left">🔧 Self-Taught Full-Stack Developer <br>""""""""""""""""""""""""""""""""""""""""""""""<br>⚡ Building modern web apps with React & Node.js<br>Focusing on security, performance & clean code<br>Let’s create something great! ✨</p>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img height="117" width="117" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nya21sNHpiYTk5MGRhcW1maTdzYzh4ZHVkbmc5bmFzdTJpb29uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEKcOWl8RMLde/giphy.gif"  />
+  <div>
+    <p align="left">
+      🔧 <strong>Self-Taught Full-Stack Developer</strong> <br>
+      ══════════════════════════════ <br>
+      ⚡ Building modern web apps with <strong>React & Node.js</strong><br>
+      🔒 Focusing on security, performance & clean code<br>
+      🚀 Let’s create something great! ✨
+    </p>
+  </div>
+</div>
 
 ###
 
