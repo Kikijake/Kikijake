@@ -2,11 +2,11 @@
 
 ###
 
-<img align="left" height="117" width = "117" style="margin: 0 20px 0 0;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nya21sNHpiYTk5MGRhcW1maTdzYzh4ZHVkbmc5bmFzdTJpb29uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEKcOWl8RMLde/giphy.gif"  />
+<img align="left" height="117" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nya21sNHpiYTk5MGRhcW1maTdzYzh4ZHVkbmc5bmFzdTJpb29uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEKcOWl8RMLde/giphy.gif"  />
 
 ###
 
-<p align="left" >🔧 Self-Taught Full-Stack Developer <br>""""""""""""""""""""""""""""""""""""""""""""""<br>⚡ Building modern web apps with React & Node.js<br>Focusing on security, performance & clean code<br>Let’s create something great! ✨</p>
+<p align="left">🔧 Self-Taught Full-Stack Developer <br>""""""""""""""""""""""""""""""""""""""""""""""<br>⚡ Building modern web apps with React & Node.js<br>Focusing on security, performance & clean code<br>Let’s create something great! ✨</p>
 
 ###
 
@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kikijake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Kikijake&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kikijake&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
