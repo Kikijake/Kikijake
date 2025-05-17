@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td>
+    <td style="border:none;">
       <img height="117" src="https://media0.giphy.com/media/v1.Y2lkPTc9MGI3NjExM3Nya21sNHpiYTk5MGRhcW1maTdzYzh4ZHVkbmc5bmFzdTJpb29uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEKcOWl8RMLde/giphy.gif" />
     </td>
     <td>
