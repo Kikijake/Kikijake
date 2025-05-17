@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td style="border:none; padding-right:20px;" valign="top">
-      <img align="left" height="130" src="https://media1.tenor.com/m/dzZTjQOgtMoAAAAC/jake-crying-jake.gif" />
+      <img align="left" height="200" src="https://media1.tenor.com/m/dzZTjQOgtMoAAAAC/jake-crying-jake.gif" />
     </td>
     <td style="border:none;" valign="top">
       <div align="left">
