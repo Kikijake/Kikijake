@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nya21sNHpiYTk5MGRhcW1maTdzYzh4ZHVkbmc5bmFzdTJpb29uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEKcOWl8RMLde/giphy.gif"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Nya21sNHpiYTk5MGRhcW1maTdzYzh4ZHVkbmc5bmFzdTJpb29uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEKcOWl8RMLde/giphy.gif"  />
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<img align="right" height="160" src="https://media1.tenor.com/m/dzZTjQOgtMoAAAAC/jake-crying-jake.gif"  />
+<img align="left" height="160" src="https://media1.tenor.com/m/dzZTjQOgtMoAAAAC/jake-crying-jake.gif"  />
 
 ###
 
