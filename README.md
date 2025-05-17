@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔧 Self-Taught Full-Stack Developer <br>""""""""""""""""""""""""""""""""""""""""""""""<br>⚡ Building modern web apps with React & Node.js<br>Focusing on security, performance & clean code<br>Let’s create something great! ✨</p>
+<p align="left" style="margin-left: 20px;">🔧 Self-Taught Full-Stack Developer <br>""""""""""""""""""""""""""""""""""""""""""""""<br>⚡ Building modern web apps with React & Node.js<br>Focusing on security, performance & clean code<br>Let’s create something great! ✨</p>
 
 ###
 
