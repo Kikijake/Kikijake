@@ -28,11 +28,9 @@
       <p align="left">🚀 **Code Artisan** | 🧑‍💻JavaScript Full-Stack  <br>⚡ React & Node.js | 🔒 Security-First Mindset  <br>🌱 Self-taught | 📚 Always leveling up</p>
     </td>
   </tr>
-</table>
-
-###
-
-<h2 align="left">I code with</h2>
+  <tr>
+    <td colspan="2">
+      <h2 align="left">I code with</h2>
 
 ###
 
@@ -84,6 +82,13 @@
     </td>
   </tr>
 </table>
+
+
+    </td>
+  </tr>
+</table>
+
+###
 
 
 
