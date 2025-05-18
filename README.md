@@ -89,8 +89,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kikijake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=radical&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Kikijake&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kikijake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=radical&hide_border=false&order=2" height="174" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kikijake&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="174" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kikijake&radius=16&theme=redical&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
