@@ -1,8 +1,13 @@
-<h1 align="left">💻 Full-Stack JavaScript Developer</h1>
+
 
 ###
 
 <table align="center">
+  <tr>
+    <td colspan="2">
+      <h1 align="left">💻 Full-Stack JavaScript Developer</h1>
+    </td>
+  </tr>
   <tr>
     <td style="border:none;">
       <img height="117" src="https://media0.giphy.com/media/v1.Y2lkPTc9MGI3NjExM3Nya21sNHpiYTk5MGRhcW1maTdzYzh4ZHVkbmc5bmFzdTJpb29uMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kEKcOWl8RMLde/giphy.gif" />
