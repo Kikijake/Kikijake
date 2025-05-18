@@ -38,7 +38,7 @@
     <td style="border:none; padding-right:20px;" valign="top">
       <img align="left" height="220" src="https://media1.tenor.com/m/dzZTjQOgtMoAAAAC/jake-crying-jake.gif" />
     </td>
-    <td style="border:none;" valign="top">
+    <td style="border:none;" valign="top" width="auto">
       <div align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" title="JavaScript" />
         <img width="12" />
