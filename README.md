@@ -18,7 +18,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <h2 align="left">About me</h2>
       <p align="left">🚀 **Code Artisan** | 🧑‍💻JavaScript Full-Stack  <br>⚡ React & Node.js | 🔒 Security-First Mindset  <br>🌱 Self-taught | 📚 Always leveling up</p>
     </td>
