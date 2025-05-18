@@ -17,15 +17,13 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <h2 align="left">About me</h2>
+      <p align="left">🚀 **Code Artisan** | 🧑‍💻JavaScript Full-Stack  <br>⚡ React & Node.js | 🔒 Security-First Mindset  <br>🌱 Self-taught | 📚 Always leveling up</p>
+    </td>
+  </tr>
 </table>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🚀 **Code Artisan** | 🧑‍💻JavaScript Full-Stack  <br>⚡ React & Node.js | 🔒 Security-First Mindset  <br>🌱 Self-taught | 📚 Always leveling up</p>
 
 ###
 
