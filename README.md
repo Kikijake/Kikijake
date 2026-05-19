@@ -20,46 +20,70 @@
 
 ---
 
-## 🛠️ I Code With
+## 🛠️ Tech Stack
 
-### 🌐 Languages & Core
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" title="JavaScript" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript" title="TypeScript" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" title="HTML5" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" title="CSS3" />
+<div align="center">
 
-### 🎨 Frontend Frameworks & State
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react" title="React" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs" title="Next.js" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="redux" title="Redux" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="sass" title="Sass" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap" title="Bootstrap" />
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
 
-### ⚙️ Backend & Runtime
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs" title="Node.js" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs" title="NestJS" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express" title="Express" />
+---
 
-### 🧰 Tools & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" title="Git" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" title="GitHub" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" title="VS Code" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" alt="jest" title="Jest" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45" alt="jira" title="Jira" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" title="Figma" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux" title="Linux" />
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="Redux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="Sass" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
+
+---
+
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="45" alt="NestJS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="Express" />
+
+---
+
+### Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" alt="Jest" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-### 📈 Language & Streak Profile
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kikijake&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=radical&hide_border=false&order=2" height="176" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Kikijake&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="176" alt="streak graph" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kikijake&show_icons=true&theme=radical&hide_border=true" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kikijake&layout=compact&theme=radical&hide_border=true" 
+    height="170"
+  />
 </p>
 
-### 🛠️ Activity Overview
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kikijake&radius=16&theme=radical&area=true&order=5&hide_border=false&hide_title=false" width="100%" alt="activity graph" />
+  <img 
+    src="https://streak-stats.demolab.com?user=Kikijake&theme=radical&hide_border=true" 
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kikijake&theme=radical&hide_border=true&area=true" 
+    width="95%"
+  />
 </p>
